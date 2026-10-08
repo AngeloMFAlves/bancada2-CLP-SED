@@ -1,0 +1,7 @@
+I0 - Peça disponível
+I1 - Peça não preta
+I2 - Segurança
+I3 - Peça Alta
+I4 - Elevador em cima
+I5 - Elevador em baixo
+I6 - Cilindro recuado
